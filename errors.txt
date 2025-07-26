@@ -1,0 +1,18 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 722: expected statement.
+    "I record the end, and a beginning":
+                                       ^
+
+File "game/script.rpy", line 724: expected statement.
+    "I vow to watch over this world":
+                                    ^
+
+File "game/script.rpy", line 726: expected statement.
+    "I lay down my blade and rest":
+                                  ^
+
+Ren'Py Version: Ren'Py 8.3.7.25031702
+Sat Jul 26 16:55:07 2025
